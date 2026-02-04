@@ -29,7 +29,7 @@ The overall game flow is managed through a controller-based structure, separatin
 ## 📁 Project Structure
 ```text
 .
-├── snake.py        # Main game implementation
+├── Python_Snake_Optimized version.py        # Main game implementation
 ├── .gitignore
 └── README.md
 ```
